@@ -1,0 +1,6 @@
+var x = 102
+
+if (x % 3 == 0) {
+  return "loopy";
+}
+
